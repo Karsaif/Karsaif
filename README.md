@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding,software development,game building
 - 🌱 I’m currently learning c++,java,phyton,php,css
 - 💞️ I’m looking to collaborate on making games
-- 📫 How to reach me (muhammadharithdanial108@gamil.com)
+- 📫 How to reach me (muhammadharithdanial108@gmail.com)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i am broke
 
